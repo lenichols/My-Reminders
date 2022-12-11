@@ -28,13 +28,7 @@ curl http://localhost:9091
 
 ## Prerequisites
 
-Make sure GoLang is installed globally
-
-add air (mac)
-
-```
-brew install air
-```
+**Make sure GoLang is installed globally**
 
 add Go path shortcut to zshrc or bashrc
 
